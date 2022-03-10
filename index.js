@@ -35,6 +35,7 @@ module.exports = () => {
   app.use(signup);
   app.use(login);
   app.use(index);
+  app.use(math);
   app.use(logout);
 
   app.get("/*", (req, res) => {
