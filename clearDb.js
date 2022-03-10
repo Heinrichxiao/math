@@ -1,5 +1,5 @@
 const save = require('./save');
 
-module.exports = (database = {users: {}, videos: {}}) => {
+module.exports = (database = {users: {}}) => {
     save(database);
 };
