@@ -11,6 +11,7 @@ module.exports = () => {
   const signup = require("./routes/signup");
   const logout = require("./routes/logout");
   const index = require("./routes/index");
+  const math = require("./routes/math");
   const renameDb = require("./helpers/renameDb");
 
   // Rename database
