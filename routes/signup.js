@@ -38,6 +38,9 @@ signup.post("/signup", (req, res) => {
   db.users[req.body.usr] = {
     usr: req.body.usr,
     psw: hash(req.body.psw),
+    data: {
+      xp: 0
+    }
   };
 
   save(db);

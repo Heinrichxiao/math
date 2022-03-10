@@ -17,6 +17,5 @@ Share videos on share
 
 - [x] Setup project
 - [x] Finish login and signup page
-- [x] Upload videos
-- [ ] Watch videos
-- [ ] Likes, Subscribes, etc.
+- [ ] Add math games
+- [ ] Add teacher page
