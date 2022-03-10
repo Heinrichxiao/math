@@ -1,6 +1,6 @@
 const save = require('./save');
 
 save({users: {}});
-module.export = () => {
+module.exports = () => {
   save({users: {}});
 };
