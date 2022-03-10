@@ -1,7 +1,7 @@
 {
-  "name": "shrideo",
+  "name": "Math",
   "version": "1.0.0",
-  "description": "Share videos on shrideo, for teachers and students",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jest",
@@ -13,17 +13,15 @@
     "url": "git+https://github.com/Heinrichxiao/Shrideo.git"
   },
   "keywords": [
-    "Share",
-    "Video",
     "Teacher",
     "Students"
   ],
   "author": "Heinrich X.",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Heinrichxiao/Shrideo/issues"
+    "url": "https://github.com/Heinrichxiao/math-fun/issues"
   },
-  "homepage": "https://github.com/Heinrichxiao/Shrideo#readme",
+  "homepage": "https://github.com/Heinrichxiao/math-fun#readme",
   "dependencies": {
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
